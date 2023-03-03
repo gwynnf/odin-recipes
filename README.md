@@ -1,1 +1,2 @@
 # odin-recipes
+Welcome to this new recipe website designed as part of the odin project process. This initial iteration of the recipe website will require and demonstrate html skills as well as git commit messaging skills.
